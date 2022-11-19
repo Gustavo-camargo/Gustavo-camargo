@@ -1,4 +1,4 @@
-### Hello, Welcome to my profile 👋
+### Hello, I am Gustavo Camargo 👋
 
 - 🌱 I’m currently learning front end
 - 👯 I’m looking to collaborate on small projects
