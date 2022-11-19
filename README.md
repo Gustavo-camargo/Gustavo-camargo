@@ -1,4 +1,4 @@
-### Olá, Bem vindo ao meu perfil 👋
+### Hello, Welcome to my profile 👋
 
 - 🌱 I’m currently learning front end
 - 👯 I’m looking to collaborate on small projects
@@ -9,4 +9,7 @@
  	<a>
 <a href = "mailto:gustavocamargo1213@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
   <a 
+</div>
+<div>
+
 </div>
