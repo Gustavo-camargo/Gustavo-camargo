@@ -1,8 +1,8 @@
 ### Olá, Bem vindo ao meu perfil 👋
 
 - 🌱 I’m currently learning front end
-- 👯 I’m looking to collaborate on pequenos projetos
-- ⚡ Fun fact: programo pelo celular 
+- 👯 I’m looking to collaborate on small projects
+- ⚡ Fun fact: programo program by cell phone
 -->
 <div>
  <a href="https://instagram.com/gust4vocr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
