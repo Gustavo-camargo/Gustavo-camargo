@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning front end
 - 👯 I’m looking to collaborate on small projects
-- ⚡ Fun fact: program by cell phone<br>
+- ⚡ Fun fact: programo by cell phone<br>
 ## social mídia<br>
  <a href="https://instagram.com/gust4vocr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a>
